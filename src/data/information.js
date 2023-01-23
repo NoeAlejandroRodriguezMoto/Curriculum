@@ -8,7 +8,7 @@ let information = {
   Preparatoria:"-Preparatoria: Colegio de Bachilleres de Chiapas numero 01",
   Universidad: "-Universidad: Universidad Politecnica de Chiapas",
   Creatividad: "Creatividad, Flexibilidad, Iniciativa y Empatía.",
-  ap: "Actitudes destacadas",
+  Actitudes: "Actitudes destacadas",
   Sobre: "Acerca de mi",
   Skills: "Lenguajes de programación",
   Telefono : "+52 961 449 6689",

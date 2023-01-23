@@ -11,7 +11,7 @@ const Education = () => {
            <Text>{information.Preparatoria}</Text>
            <Text>{information.Universidad}</Text>
 
-           <Title>{information.ap}</Title> <br />
+           <Title>{information.Actitudes}</Title> <br />
            <Text>{information.Flexibilidad}</Text>
            <Text>{information.Creatividad}</Text>
            <Text>{information.Resolucion}</Text>
