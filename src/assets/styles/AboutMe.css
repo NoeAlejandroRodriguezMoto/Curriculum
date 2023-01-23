@@ -1,0 +1,12 @@
+.aboutMe {
+    width: 105%;
+  
+    padding: 5%;
+    margin-top: 5%;
+    margin-left: 0;
+    background: #e5a6f8;
+    border-radius: 20px;
+    
+    text-align: justify;
+  }
+

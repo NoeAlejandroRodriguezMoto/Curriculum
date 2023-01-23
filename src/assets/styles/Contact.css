@@ -1,0 +1,44 @@
+.Contact{
+width: 90%;
+
+margin-top: 5%;
+margin-left: 0;
+
+background: #e5a6f8;
+border-radius: 20px;
+}
+.Email{
+    padding-top: 5%;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 2%;
+}
+.Phone{
+    padding-top: 10%;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 2%;
+}
+.Ubication{
+    padding-top: 10%;
+    padding-bottom: 6%;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 2%;
+}
+.imagen img{
+    width: 50%;
+}
+
+.GitHub{
+    padding-top: 0%;
+    padding-bottom: 6%;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 2%;
+
+}

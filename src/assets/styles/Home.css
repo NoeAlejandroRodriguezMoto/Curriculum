@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.home{
+    display: flex; 
+    align-items: flex-start;
+    justify-content: flex-start;
+    /* border: 5px blue solid; */
+    margin: 0% 5%;
+    width: 90%;
+    
+   
+}
+.left{
+    
+    align-items: center;
+    flex: 1;
+    
+}
+.right{
+    flex: 2.5;
+  
+}
+
